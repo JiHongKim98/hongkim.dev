@@ -1,8 +1,8 @@
 module.exports = {
-  title: "h0ng.dev",
+  title: "hongkim.dev",
   description: "Hello :) This is JiHongKim98's tech blog",
   author: "JiHongKim98",
-  siteUrl: "https://h0ng.dev",
+  siteUrl: "https://hongkim.dev",
   gtag: "G-JHCCV51C69",
   adSense: "ca-pub-7725099475888546",
   links: {
@@ -11,7 +11,7 @@ module.exports = {
   },
   useAbout: true,
   giscus: {
-    repo: "JiHongKim98/h0ng.dev",
+    repo: "JiHongKim98/hongkim.dev",
     repoId: "R_kgDOMQHd3w",
     category: "Comments",
     categoryId: "DIC_kwDOMQHd384Cjrpg",
